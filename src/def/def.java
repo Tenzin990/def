@@ -6,6 +6,7 @@ public class def {
 		System.out.println("canada");
 		System.out.println("is good");
 System.out.println("alright");
+System.out.println("yolo");
 	}
 
 }
